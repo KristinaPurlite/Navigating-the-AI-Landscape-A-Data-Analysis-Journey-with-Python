@@ -9,5 +9,9 @@ Why this project matters:
 ✔ Serves as a Portfolio Benchmark: For professionals aiming to showcase their analytical prowess, this project exemplifies how data analysis can drive strategic decisions and uncover hidden market opportunities.  
 Looking forward to connecting with peers, mentors, and industry leaders to discuss the insights and methodologies of this project further. Your thoughts and feedback are highly valued as we continue to explore the vast potential of data analysis in shaping the future of technology!*
 
-
+## Technologies Used:  
+*✔ pandas: A fundamental package for data analysis and manipulation.  
+✔ matplotlib.pyplot: A plotting library for creating static, interactive, and animated visualizations in Python.  
+✔ seaborn: A Python data visualization library based on matplotlib that provides a high-level interface for drawing attractive and informative statistical graphics.  
+✔ re: The standard library module for regular expressions in Python, used for string searching and manipulation.*  
 
