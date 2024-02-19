@@ -17,41 +17,41 @@ Looking forward to connecting with peers, mentors, and industry leaders to discu
 
 
 ## Setup:  
-*__Prerequisites__
-Before you begin, ensure you have the following installed on your system:*
+*__Prerequisites__  
+Before you begin, ensure you have the following installed on your system:*  
 
-*✔ Python (version 3.x is recommended)
-✔ Git*
+*✔ Python (version 3.x is recommended)  
+✔ Git*  
 
-*__Cloning the Repository__
-To clone the repository to your local machine, open a terminal or command prompt and run the following command:*
-git clone https://github.com/KristinaPurlite/Navigating-the-AI-Landscape-A-Data-Analysis-Journey-with-Python.git
+*__Cloning the Repository__  
+To clone the repository to your local machine, open a terminal or command prompt and run the following command:*  
+git clone https://github.com/KristinaPurlite/Navigating-the-AI-Landscape-A-Data-Analysis-Journey-with-Python.git  
 
-*This will create a copy of the project on your local system. Navigate into the project directory with:*
-cd Navigating-the-AI-Landscape-A-Data-Analysis-Journey-with-Python
+*This will create a copy of the project on your local system. Navigate into the project directory with:*  
+cd Navigating-the-AI-Landscape-A-Data-Analysis-Journey-with-Python  
 
-*__Setting Up a Virtual Environment__
-It's recommended to create a virtual environment for the project dependencies. You can do this by running:*
-python -m venv venv
+*__Setting Up a Virtual Environment__  
+It's recommended to create a virtual environment for the project dependencies. You can do this by running:*  
+python -m venv venv  
 
-*Activate the virtual environment with the following command:
-✔ On Windows:*
-venv\Scripts\activate
+*Activate the virtual environment with the following command:  
+✔ On Windows:*  
+venv\Scripts\activate  
 
-*✔ On macOS and Linux:*
-source venv/bin/activate
+*✔ On macOS and Linux:*  
+source venv/bin/activate  
 
-*__Installing Dependencies__
-With the virtual environment activated, install the project dependencies by running:*
-pip install -r requirements.txt
+*__Installing Dependencies__  
+With the virtual environment activated, install the project dependencies by running:*  
+pip install -r requirements.txt  
 
-*This will install all the necessary Python packages as specified in the requirements.txt file.*
+*This will install all the necessary Python packages as specified in the requirements.txt file.*  
 
-*__Running the Project__
-After installing the dependencies, you can run the Jupyter notebooks or any scripts included in the project. If you're using Jupyter notebooks, start the Jupyter Notebook server with:*
-jupyter notebook
+*__Running the Project__  
+After installing the dependencies, you can run the Jupyter notebooks or any scripts included in the project. If you're using Jupyter notebooks, start the Jupyter Notebook server with:*  
+jupyter notebook  
 
-*Navigate to the notebooks/ directory and open the .ipynb files to view and run the analyses.*
+*Navigate to the notebooks/ directory and open the .ipynb files to view and run the analyses.*  
 
 
 
